@@ -1,7 +1,8 @@
-package com.orient.wanjetpack
+package com.orient.wanjetpack.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.orient.wanjetpack.R
 
 class MainActivity : AppCompatActivity() {
 
